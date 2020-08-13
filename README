@@ -1,0 +1,7 @@
+#movies_search
+
+## What it does: 
+Search for Movies based on the User keywords.
+
+## How it works: 
+This app fetches the MovieDB API based on the user input using JQuery.
